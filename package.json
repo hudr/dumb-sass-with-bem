@@ -1,0 +1,25 @@
+{
+  "name": "dumb-sass-with-bem",
+  "version": "0.0.1",
+  "description": "A simple/dumb project showing how to use sass with bem and gulp",
+  "main": "index.js",
+  "scripts": {
+    "gulp": "gulp",
+    "watch": "gulp watch"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "sass",
+    "scss",
+    "bem"
+  ],
+  "author": "Hudson",
+  "license": "MIT",
+  "devDependencies": {
+    "del": "^6.0.0",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^5.1.0",
+    "sass": "^1.51.0"
+  }
+}
