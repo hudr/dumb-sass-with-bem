@@ -15,3 +15,6 @@ In this cases all the files go to `dist` folder after you run the gulp script.
 
 ## Purpose
 This project was made to study only, it's very simple but you can understand how sass works with BEM methodology and how we can manipulate files and tasks with gulp.
+
+## Screen
+![image](https://user-images.githubusercontent.com/42697491/167064632-b0512d20-1796-4852-9787-b7f9412e8490.png)
