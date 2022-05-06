@@ -1,8 +1,8 @@
 # A simple/dumb project showing how to use sass with bem and gulp
 
 ## How to build
-1 - Install packages with `npm install` or `yarn`
-2 - Run build script `npm run gulp` or `yarn gulp`
+- Install packages with `npm install` or `yarn`  
+- Run build script `npm run gulp` or `yarn gulp`
 
 ## How to watch while make changes
 - After install packages run `npm run watch` or `yarn watch`
